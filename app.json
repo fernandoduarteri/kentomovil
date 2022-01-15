@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "kentomovil",
+    "slug": "kentomovil",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "kentomovil"
+}
